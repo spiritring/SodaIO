@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+
+  "BagIP": "http://192.168.1.104:11100/",
+  "BagAddress": "/bag.set",
+  "BagVersion": 1,
+  "BagLuaFile": "LuaTestScript.lua",
+  "BagILRuntimeFileDLL": "LogicUI.dll",
+  "BagILRuntimeFilePDB": "LogicUI.pdb",
+
+  "HotfixIP": "http://192.168.1.104:11100/",
+  "HotfixAddress": "/hotfix.do",
+  "HotfixVersion": 0,
+  "HotfixLuaFile": "LuaHotfixTest.lua"
+}

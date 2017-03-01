@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2121061770
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bag.set
+      Dependencies: {}
+    Info_1:
+      Name: hotfix.do
+      Dependencies: {}
